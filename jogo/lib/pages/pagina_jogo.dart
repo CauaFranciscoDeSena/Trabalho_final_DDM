@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:jogo/models/infos_carta.dart';
 import 'dart:math';
-import 'package:jogo/widgets/lados-carta.dart'; // Para embaralhamento aleatório
+import 'package:jogo/widgets/lados_carta.dart'; // Para embaralhamento aleatório
 
 class PaginaJogoMemoria extends StatefulWidget {
   const PaginaJogoMemoria({super.key});
